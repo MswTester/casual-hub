@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body{
+  width: 100vw;
+  height: 100vh;
+  @apply bg-white m-0 p-0 overflow-hidden;
+}
