@@ -10,6 +10,11 @@ const DB:DB[] = [
     id: 'keyviewer',
     title: '키뷰어',
     description: '키뷰어입니다.'
+  },
+  {
+    id: 'yangsan1',
+    title: '복제복제 게임',
+    description: '광고에서 본 양산형 게임입니다'
   }
 ]
 
