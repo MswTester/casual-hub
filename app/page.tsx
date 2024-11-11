@@ -15,6 +15,11 @@ const DB:DB[] = [
     id: 'yangsan1',
     title: '복제복제 게임',
     description: '광고에서 본 양산형 게임입니다'
+  },
+  {
+    id: 'gamble',
+    title: '도박',
+    description: '도박입니다.'
   }
 ]
 
